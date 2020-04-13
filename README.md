@@ -8,4 +8,4 @@
 - [Building a terminal dashboard in Golang in 300 lines of code](https://levelup.gitconnected.com/building-a-terminal-dashboard-in-golang-in-300-lines-of-code-3b9f83f363a8)
 - [Go: How Does Go Recycle Goroutines?](https://medium.com/a-journey-with-go/go-how-does-go-recycle-goroutines-f047a79ab352)
 - [Understanding bytes in Go by building a TCP protocol](https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/)
-
+- [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
