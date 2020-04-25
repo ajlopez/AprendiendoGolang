@@ -9,3 +9,6 @@
 - [Go: How Does Go Recycle Goroutines?](https://medium.com/a-journey-with-go/go-how-does-go-recycle-goroutines-f047a79ab352)
 - [Understanding bytes in Go by building a TCP protocol](https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/)
 - [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
+- [Bad Go: slices of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
+- [Exceptional Go](https://medium.com/extreme-programming/exceptional-go-3943c2230cf8)
+- [Go: What is the Unsafe Package?](https://medium.com/a-journey-with-go/go-what-is-the-unsafe-package-d2443da36350)
