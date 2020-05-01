@@ -12,3 +12,4 @@
 - [Bad Go: slices of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
 - [Exceptional Go](https://medium.com/extreme-programming/exceptional-go-3943c2230cf8)
 - [Go: What is the Unsafe Package?](https://medium.com/a-journey-with-go/go-what-is-the-unsafe-package-d2443da36350)
+- [Rob Pike interview: “Go has indeed become the language of cloud infrastructure“](https://evrone.com/rob-pike-interview)
