@@ -15,3 +15,5 @@
 - [Rob Pike interview: “Go has indeed become the language of cloud infrastructure“](https://evrone.com/rob-pike-interview)
 - [Drand - A Distributed Randomness Beacon Daemon](https://github.com/drand/drand)
 - [Robotgo Desktop Automation](https://github.com/go-vgo/robotgo)
+- [Understanding Ethereum by studying the source code](https://gisli.hamstur.is/2020/08/understanding-ethereum-by-studying-the-source-code/)
+
