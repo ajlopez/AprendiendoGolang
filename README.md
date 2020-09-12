@@ -16,4 +16,5 @@
 - [Drand - A Distributed Randomness Beacon Daemon](https://github.com/drand/drand)
 - [Robotgo Desktop Automation](https://github.com/go-vgo/robotgo)
 - [Understanding Ethereum by studying the source code](https://gisli.hamstur.is/2020/08/understanding-ethereum-by-studying-the-source-code/)
+- [What is the best IDE for developing in Golang?](https://medium.com/cloud-native-the-gathering/what-is-the-best-ide-for-developing-in-golang-987e5a49c984)
 
