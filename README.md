@@ -18,3 +18,4 @@
 - [Understanding Ethereum by studying the source code](https://gisli.hamstur.is/2020/08/understanding-ethereum-by-studying-the-source-code/)
 - [What is the best IDE for developing in Golang?](https://medium.com/cloud-native-the-gathering/what-is-the-best-ide-for-developing-in-golang-987e5a49c984)
 - [Complete Guide to Create Docker Container for Your Golang Application](https://levelup.gitconnected.com/complete-guide-to-create-docker-container-for-your-golang-application-80f3fb59a15e)
+- [“Go Has Indeed Become The Language Of Cloud Infrastructure“ - Rob Pike](https://hackernoon.com/go-has-indeed-become-the-language-of-cloud-infrastructure-rob-pike-q51a3wle)
